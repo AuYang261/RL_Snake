@@ -204,6 +204,7 @@ class Game:
 
 if __name__ == '__main__':
     game = Game(10, 10, True)
+    game.draw()
     while game.board.get_running():
         print(game.board.get_state())
         print(game.board.points)
