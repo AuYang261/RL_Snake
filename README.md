@@ -6,7 +6,7 @@ Play Gluttonous Snake game by reinforce learning.
 
 * python lib: `pygame`, `numpy`, `matplotlib`.
 
-  ​	Run commander follow to install:
+  ​	Run command follow to install:
 
   ```bash
   pip install pygame
@@ -34,4 +34,4 @@ Use `train.py` to train model:
 python train.py
 ```
 
-You can use custom configuration to train by edit this file.
+You can use custom configuration to train by editing this file.
